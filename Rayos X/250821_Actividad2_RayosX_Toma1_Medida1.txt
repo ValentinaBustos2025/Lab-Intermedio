@@ -1,5 +1,5 @@
-¡ngulo del crista	Tasa con 30kV con Al
-theta/∞	R(30kV)/Imp/s
+√Ångulo del crista	Tasa con 30kV con Al
+theta/¬∞             	R(30kV)/Imp/s
 
 6,0	488,0
 7,0	404,0
