@@ -1,0 +1,1 @@
+Se utilizó un valor de UH  = , U2 = . Utilizando diferentes valores de temperatura.
